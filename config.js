@@ -50,14 +50,14 @@ export default {
    },
 
    Exif: {
-      packId: "https://instagram.com/cak_haho",
+      packId: "https://instagram.com/lord_lightness",
       packName: `Sticker ini Dibuat Oleh :`,
-      packPublish: "Dika Ardnt.",
-      packEmail: "dika.ardianta7@yahoo.com",
-      packWebsite: "https://instgaram.com/cak_haho",
+      packPublish: "Powerless.",
+      packEmail: "dellas@itsmedell.tech",
+      packWebsite: "https://instgaram.com/lord_lightness",
       androidApp: "https://play.google.com/store/apps/details?id=com.bitsmedia.android.muslimpro",
       iOSApp: "https://apps.apple.com/id/app/muslim-pro-al-quran-adzan/id388389451?|=id",
-      categories: ['😹', '😎', '😱'],
+      categories: ['👉', '👌', '💦'],
       isAvatar: 0
    },
 
